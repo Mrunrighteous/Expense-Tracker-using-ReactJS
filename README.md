@@ -4,6 +4,6 @@ This is ReactJS project to track the expenses
 
 ### `npm install`
 
-<h2> To Run </h2>
+<h2> To Run React APP </h2>
 
 ### `npm start`
